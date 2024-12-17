@@ -33,3 +33,4 @@ llamaindex-py-client
 seaborn
 matplotlib
 pdfplumber
+arxiv
