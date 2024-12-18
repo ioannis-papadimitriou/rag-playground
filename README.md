@@ -615,7 +615,7 @@ If you use RAG Playground in your research, please cite this paper:
       primaryClass={cs.LG},
       url={https://arxiv.org/abs/2412.12322}, 
 }
-
+```
 ## License
 
 GPL
