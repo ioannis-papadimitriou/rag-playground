@@ -601,6 +601,21 @@ flowchart LR
 4. Push to the branch
 5. Create a Pull Request
 
+Copy## Citation
+
+If you use RAG Playground in your research, please cite this paper:
+
+```bibtex
+@misc{papadimitriou2024ragplaygroundframeworksystematic,
+      title={RAG Playground: A Framework for Systematic Evaluation of Retrieval Strategies and Prompt Engineering in RAG Systems}, 
+      author={Ioannis Papadimitriou and Ilias Gialampoukidis and Stefanos Vrochidis and Ioannis and Kompatsiaris},
+      year={2024},
+      eprint={2412.12322},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2412.12322}, 
+}
+
 ## License
 
 GPL
